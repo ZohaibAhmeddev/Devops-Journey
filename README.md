@@ -1,18 +1,20 @@
 # Hi, I'm Zohaib Ahmed 👋
 
-💻 Software Developer | 📊 Aspiring Data Analyst
+💻 Software Developer | ☁️ Aspiring DevOps Engineer
 
-I am currently learning **Data Analytics** and expanding my skills in:
+I am currently learning **DevOps** and expanding my skills in:
 
-- 📊 Microsoft Excel
-- 🗄️ SQL
-- 🐍 Python
-- 🐼 Pandas
-- 📈 Data Visualization
-- 📊 Power BI
+- 🐧 Linux
+- 🌐 Networking
+- 🐳 Docker
+- ☁️ Cloud Computing
+- 🔄 CI/CD
+- 🔧 Git & GitHub
+- ☸️ Kubernetes
+- 🤖 Automation
 
-🚀 I will be sharing my learning journey, projects, and data analysis work here on GitHub.
+🚀 I will be sharing my learning journey, projects, and DevOps work here on GitHub.
 
-🌱 Currently learning: **Data Analytics**
+🌱 Currently learning: **DevOps & Cloud Computing**
 
 📫 Connect with me and follow my journey!
